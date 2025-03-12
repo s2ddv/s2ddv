@@ -16,5 +16,4 @@
 </div><br/>
 
 16 anos | Aprendendo Front-End e Back-End! <br/>
-"Anything is possible through the Man above."
 
