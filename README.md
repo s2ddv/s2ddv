@@ -1,11 +1,11 @@
-### Oii! Eu sou Samuel Barbosa 👋
+### Hii! My name is Samuel Barbosa 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s2dwx)
 
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=s2ddv&show_icons=true&theme=radical)
 
-## Tecnologias que estou aprendendo 
+## Learning!
 
 <div style=display: inline_block><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,5 +15,5 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
 
-16 anos | Aprendendo Front-End e Back-End! <br/>
+16 years | Currently working on HTML, CSS and JS! <br/>
 
