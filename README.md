@@ -1,8 +1,8 @@
 ### Hii! My name is Samuel Barbosa 👋
 
 - cs student.
-- improving at JavaScript | Node | Tailwind
-- focused on studying front-end and improving my knowledge about computer science.
+- improving at JavaScript | Node | React
+- focused on studying front-end/mobile and improving my knowledge about computer science.
 <div style=display: inline_block>
 <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
