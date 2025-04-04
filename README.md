@@ -1,7 +1,7 @@
 ### Hello! My name is Samuel Barbosa 👋
 
 - cs student.
-- improving at React Native | Node | JavaScript
+- improving at React Native | JavaScript
 - focused on studying front-end/mobile and improving my knowledge about computer science.
 
 <div style=display: inline_block>
