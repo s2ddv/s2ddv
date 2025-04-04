@@ -1,4 +1,4 @@
-### Hii! My name is Samuel Barbosa 👋
+### Hello! My name is Samuel Barbosa 👋
 
 - cs student.
 - improving at React Native | Node | JavaScript
@@ -11,11 +11,6 @@
 
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s2dwx)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbarbosadev/)
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=s2ddv&show_icons=true&theme=shadow_red)
-
-
-
-
-
-
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2ddv&layout=compact&theme=dark"/>
