@@ -1,5 +1,5 @@
 ![gif](https://i.imgur.com/CNXWdje.gif)
 
-i'm a computer engineer & i have been working on systems using python!!
+i'm a computer engineer & i have been working on systems using python
 
-feel free to 
+feel free to contact me!!
