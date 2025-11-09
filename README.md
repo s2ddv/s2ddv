@@ -1,10 +1,5 @@
-cs student - improving react + database 
+![gif](https://i.imgur.com/CNXWdje.gif)
 
-<div style=display: inline_block>
-<img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />         
-<img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>                
-</div>
+i'm a computer engineer & i have been working on systems using python!!
 
-<hr></hr>
-
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2ddv&layout=compact&theme=dark"/>
+feel free to 
