@@ -1,5 +1,5 @@
-![gif](https://i.pinimg.com/originals/e8/51/d8/e851d83e746c5d8f22045adc95c36c0d.gif)
+![gif](https://api.triviacreator.com/v1/imgs/quiz/itoshi-sae-072134d8-cc79-43a1-a01c-61769a4b5670.gif)
 
-i'm a computer engineer & i have been working on systems using java and solidity
+a brazilian one that usually break systems and find vulnerabilities 4 fun.
 
-feel free to contact me!!
+sometimes going with microwave, sometimes going with red team;
