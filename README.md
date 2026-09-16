@@ -1,4 +1,4 @@
-![gif](https://i.pinimg.com/originals/3b/8f/c4/3b8fc4a1c931f877ca71653224843002.gif)
+![gif](https://i.pinimg.com/originals/9a/8e/75/9a8e7505bab21b0cd214dc2ebfa8a518.gif)
 
 full time working on infrastructure @ huawei
 
