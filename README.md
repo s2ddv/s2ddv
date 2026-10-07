@@ -2,4 +2,4 @@
 
 full time working on infrastructure @ huawei
 
-rust and web3 for love in free time
+quant student + math/cs
