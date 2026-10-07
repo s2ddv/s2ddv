@@ -1,5 +1,3 @@
-![gif](https://i.pinimg.com/originals/6f/b0/6f/6fb06fa4ce58151e9c98fa40b5e58132.gif)
-
 full time working on infrastructure @ huawei
 
-quant student + math/cs
+currently i'm a quantative researcher student who writes on python and rust 
