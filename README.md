@@ -1,3 +1,2 @@
-full time working on infrastructure @ huawei
+intern @ huawei, currently a quantitative researcher student who writes on python and rust and developing financial knowledge + analysis based on code
 
-currently i'm a quantative researcher student who writes on python and rust 
