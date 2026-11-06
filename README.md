@@ -1,2 +1,4 @@
-intern @ huawei, currently a quantitative researcher student who writes on python and rust and developing financial knowledge + analysis based on code
+intern @ huawei, computer engineering student interested in quantitative research, financial markets and AI
 
+
+currently writing python, expanding financial/economics knowledge + analysis through code and AI
